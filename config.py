@@ -28,3 +28,6 @@ MAIL_PASSWORD = None
 
 # administrator list
 ADMINS = ['wangchao_198912@126.com']
+
+# pagination
+POSTS_PER_PAGE = 3
